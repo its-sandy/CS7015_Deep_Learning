@@ -1,0 +1,29 @@
+python3 train.py --num_hidden 2 --sizes 150,150 --lr 0.01 --batch_size 100 --opt adam --momentum 0.5 --activation sigmoid
+-- 90.84
+
+python3 train.py --num_hidden 2 --sizes 200,75 --lr 0.01 --batch_size 100 --opt adam --momentum 0.5 --activation sigmoid
+-- 91.34
+
+python3 train.py --num_hidden 3 --sizes 200,100,75 --lr 0.01 --batch_size 100 --opt adam --momentum 0.5 --activation sigmoid
+--90.34-91.02
+
+python3 train.py --num_hidden 3 --sizes 200,100,75 --lr 0.01 --batch_size 20 --opt adam --momentum 0.5 --activation sigmoid
+--90.18
+
+python3 train.py --num_hidden 3 --sizes 300,200,100 --lr 0.01 --batch_size 100 --opt adam --momentum 0.5 --activation sigmoid
+--91.38-91.98(71)
+
+python3 train.py --num_hidden 3 --sizes 300,200,100 --lr 0.005 --batch_size 100 --opt adam --momentum 0.5 --activation sigmoid
+--91.38
+
+python3 train.py --num_hidden 1 --sizes 550 --lr 0.01 --batch_size 100 --opt adam --momentum 0.5 --activation sigmoid
+--91.25
+
+python3 train.py --num_hidden 3 --sizes 400,250,80 --lr 0.005 --batch_size 50 --opt adam --activation sigmoid
+--93.16-93.22(92)
+
+
+python3 train.py --num_hidden 4 --sizes 600,400,250,80 --lr 0.001 --batch_size 50 --opt adam --activation sigmoid --epochs 71
+
+
+python3 train.py --num_hidden 2 --sizes 150,50 --lr 0.00075 --batch_size 20 --opt adam --activation sigmoid --epochs 250 --num_input 100 --lamb 0.007

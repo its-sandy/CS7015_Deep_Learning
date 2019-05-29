@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem,amssymb}
+\newlist{todolist}{itemize}{2}
+\setlist[todolist]{label=$\square$}
+\usepackage{pifont}
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+\newcommand{\done}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\cmark}}%
+\hspace{-2.5pt}}
+\newcommand{\wontfix}{\rlap{$\square$}{\large\hspace{1pt}\xmark}}
+
+\title{Sample Report for Programming Assignment-2}
+
+\begin{document}
+\maketitle
+% You can simply replace \item[] to \item[\done] to check complete.
+\textbf{Checklist} :
+\begin{todolist}
+\item[\done] checked.
+\item unchecked.
+\item[\wontfix] not done.
+\end{todolist}
+\title{\textbf{The task you need to ensure before submission.}}
+\begin{todolist}
+\item We have read all the instruction carefully and followed them to our best ability.
+\item We have written the name, roll no in report.
+\item Run sanity\_check.sh.
+\item We will be submitting only single submission on behalf of our team.
+\item We have not included unnecessary text, pages, logos in the assignment. 
+\item We have not used any high level APIs(Keras, Estimators for e.g.).
+\item We have not copied anything for this assignment.
+\end{todolist}
+
+\noindent Team Mate 1 : \\
+Roll No : \\
+Team Mate 2 : \\ %optional
+Roll No : \\ %optional
+\section*{Report:}
+
+\end{document}
+
+
+
+
+
+

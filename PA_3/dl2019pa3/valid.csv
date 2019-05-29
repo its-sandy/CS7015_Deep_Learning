@@ -1,0 +1,998 @@
+id,ENG,HIN
+0,A A C H R E K A R,आ च र े क र
+1,A A C H W A L,आ च व ल
+2,A A D I T Y A V A R D H A N,आ द ि त ् य व र ् ध न
+3,A A K H W E,आ ख व े
+4,A A L I N G A N,आ ल ि ं ग न
+5,A A N I S A H,आ न ि स ा ह
+6,A A Q I L,आ क ि ल
+7,A A S I M A H,आ स ि म ा ह
+8,A A V I S H K A A R,आ व ि ष ् क ा र
+9,A A Z I M,आ ज़ ि म
+10,A B A B U,अ ब ा ब ु
+11,A B D I Y A,अ ब ् द ि य ा
+12,A B E R D E E N,ए ब र ड ी न
+13,A B H A Y,अ भ य
+14,A B H I M A N Y U,अ भ ि म न ् य ु
+15,A B H I N A A T H,अ भ ि न ा थ
+16,A B H I N B H A A S,अ भ ि न भ ा स
+17,A B H I S H O K,अ भ ि श ो क
+18,A B H R A K A S I N,अ भ ् र क स ि न
+19,A B I S S O,ए ब ी स ो
+20,A B N U R,अ ब न ू र
+21,A B R A H A M S,अ ब ् र ा ह म ् स
+22,A B Z U G,ए ब ् ज ़ ु ग
+23,A C H A L E S H V A R,अ च ल े श ् व र
+24,A C H A R Y N A N D A N A,आ च ा र ् य न ं द न ा
+25,A C H I N T Y A,अ च ि ं त ् य
+26,A C H Y U T R A A Y,अ च ् य ु त र ा य
+27,A C T I N I U M,ए क ् ट ी न ि य म
+28,A D A L R A S U,अ द ल र स ु
+29,A D E C C O,ए ड े क ो
+30,A D E L A,ए ड े ल ा
+31,A D H E E R,अ ध ी र
+32,A D I N A A T H,आ द ि न ा थ
+33,A D I R O N D A C K,ए ड ि र ॉ न ् ड ै क
+34,A D I T Y A K E S H A V,आ द ि त ् य क े श व
+35,A D N A N,अ द न ा न
+36,A D O N I A,ए ड ो न ि य ा
+37,A D W A K E E,अ द ् ‍ व ा क ी
+38,A G I N C O U R T,अ ज ि न क ो र ् ट
+39,A G N E Y A,अ ग ् न े य ा
+40,A G N I K U M A A R,अ ग ् न ि क ु म ा र
+41,A G O S H,आ ग ो श
+42,A G R I C U L T U R E,ए ग ् र ि क ल च र
+43,A H I L Y A A,अ ह ि ल ् य ा
+44,A H M E D A B A D,अ ह म द ा ब ा द
+45,A I N S L E Y,ऐ ं स ् ल े
+46,A J A T A S H A T R U,अ ज ा त श त ् र ु
+47,A K A A S H,आ क ा श
+48,A K A L G A D I Y A,अ क ा ल ग ड़ ि य ा
+49,A K E E L,अ क ी ल
+50,A K H F A S H,अ ख फ ा श
+51,A K R O N,आ क ् र ो न
+52,A L A I A,अ ल ा इ य ा
+53,A L A K N A N D A,अ ल क न ं द ा
+54,A L A M O,अ ल ै म ो
+55,A L A U D D I N,अ ल ा उ द ् द ी न
+56,A L A U R A,ए ल ौ र ा
+57,A L E E M A,अ ल ी म ा
+58,A L I B A U G,अ ल ी ब ा ग
+59,A L L I E,ए ल ी
+60,A L W O R K,ए ल ् व र ् क
+61,A M A L N E R,अ म ल न े र
+62,A M A N D I P,अ म न द ी प
+63,A M A R E S H,अ म र े श
+64,A M A R K A N T,अ म र क ा ं त
+65,A M A U S I,अ म ॉ स ी
+66,A M I R A L,अ म ी र ल
+67,A M R U S H A,अ म ् र ु श ा
+68,A N A M I K A A,अ न ा म ि क ा
+69,A N A N D A M A Y I,आ न ं द म य ी
+70,A N A N T R A A M,अ न ं त र ा म
+71,A N A N T R A M,अ न ं त र ा म
+72,A N A N Y A,अ न न ् य
+73,A N B A R A S U,अ ं ब र स ु
+74,A N C E L I N,ए ं स े ल ी न
+75,A N C O N A,ए न ् क ॉ न ा
+76,A N D H E R G A R D I,अ ं ध े र ग र ् द ी
+77,A N G I E,ए ं ज ी
+78,A N I K A,अ न ि क ा
+79,A N I N D I T A A,अ न ि न ् द ि त ा
+80,A N I T R A A,अ न ि त ् र ा
+81,A N J A L E E,अ ं ज ल ी
+82,A N K I T A,अ ं क ि त ा
+83,A N N A V A R A M,अ न ् न ा व र म
+84,A N T R I W A L E,अ ं त ् र ी व ा ल े
+85,A N U P A M A A,अ न ु प म ा
+86,A N U P G A R H,अ न ु प ग ढ ़
+87,A P R I A,ए प ् र ि य ा
+88,A R B O N,आ र ् ब न
+89,A R C H A N A,अ र ् च न ा
+90,A R D N A C R U S H A,अ र ् द न ा क ् र ु श ा
+91,A R I S H T U T,अ र ि श ् त ु त
+92,A R K A J,अ र ् क ज
+93,A R N A U D,अ र न ॉ ड
+94,A R N E T H A,अ र ् न े ठ ा
+95,A R P I T,अ र ् प ि त
+96,A R P I T A,अ र ् प ि त ा
+97,A R T I E,आ र ् ट ी
+98,A R U N D H A T I N A A T H,अ र ु ं ध त ि न ा थ
+99,A R U N Y O T I S H,अ र ु ण ् य ो त ि श
+100,A R Y A N,आ र ् य न
+101,A S A N S O L,अ स न स ो ल
+102,A S H R A Y A S H,आ श ् र य श
+103,A S T E R,ए स ् ट र
+104,A T I N D E R,अ त ि ं द र
+105,A U D U B O N,ऑ ड ु ब ो न
+106,A U R Y O N,ऑ र ् य न
+107,A U T O M,ऑ ट म
+108,A V A D H I,अ व ध ि
+109,A V A L B A N E,ए व ा ल ् ब े न
+110,A V A N I N D R A,अ व न ी ं द ् र
+111,A V E D I S,ए व े ड ि स
+112,A V E R O F F,ए व र ॉ फ
+113,A V I K S H I T,अ व ि क ् ष त
+114,A Y O D H Y A,अ य ो ध ् य ा
+115,A Y U S H,आ य ु ष
+116,B A A B A R,ब ा ब र
+117,B A A D B A A N,ब ा द ब ा न
+118,B A A L A M O H A N,ब ा ल म ो ह न
+119,B A D A M P U D I,ब ा द ा म प ु ड ़ ी
+120,B A H U R U P,ब ह ु र ू प
+121,B A I D Y A N A T H D H A M,ब ै द ् य न ा थ ध ा म
+122,B A I J U,ब ै ज ु
+123,B A K H S H I,ब ख ् श ी
+124,B A K H T I A A R,ब ख ् त ि य ा र
+125,B A L M A N I,ब ा ल म ण ि
+126,B A L V I R,ब ल व ी र
+127,B A M B I,ब ै म ् ब ी
+128,B A N C R O F T,ब े ं क ् र ो फ ् ट
+129,B A N D A R A,ब न ् द ा र ा
+130,B A N D E L,ब ं द े ल
+131,B A N I Y A,ब ा न ि य ा
+132,B A N S A L,ब ं स ल
+133,B A R A K A A T,ब र ा क ा त
+134,B A R A T H,ब र ा ठ
+135,B A R E J A D I,ब र े ज ा द ी
+136,B A R H A N,ब र ह ा न
+137,B A R I U M,ब े र ि य म
+138,B A R O G,ब र ो ग
+139,B A S E L,ब ा स े ल
+140,B A T C H,ब ॅ च
+141,B A V L A,ब ा व ल ा
+142,B A W A N A,ब व ा न ा
+143,B A W A R C H I,ब ा व र ् च ी
+144,B A W O O,ब ा व ू
+145,B A Z O O B A N D,ब ा ज़ ू ब ं द
+146,B E C H T E L,ब े क ट े ल
+147,B E C K E R,ब े क र
+148,B E E R A S I N H,ब ी र स ि ं ह
+149,B E G A A N A,ब े ग ा न ा
+150,B E I J I N G,ब ी ज ि ं ग
+151,B E L G A U M,ब े ल ग ॉ म
+152,B E R G E N,ब र ् ज न
+153,B H A A T A V D E K A R,भ ा ट व ड े क र
+154,B H A G A V A T,भ ग व त
+155,B H A G W A N T R O O P,भ ग व ं त र ू प
+156,B H A N D A R A,भ ं ड ा र ा
+157,B H A N U,भ ा न ु
+158,B H I M E S H W A R,भ ि म े श ् व र
+159,B H I N D A R A N W A L E,भ ि ं ड र न व ा ल े
+160,B H O J R A S,भ ो ज र स
+161,B H O J U D I H,भ ो ज ु द ि ह
+162,B H U G A O N,भ ु ग ा ं व
+163,B H U T E S H,भ ू त े श
+164,B I L T S T R A A T,ब ि ल ् ट स ् ट ् र ा ट
+165,B I R M I T R A P U R,ब ि र म ि त ् र ा प ु र
+166,B I S H R A M P U R,ब ि श ् र ा म प ु र
+167,B I S M A R C K,ब ि स ् म ा र ् क
+168,B I S T A M I,ब ि स ् त ा म ी
+169,B L A D I N G,ब ् ल े ड ि ं ग
+170,B O D H R A N,ब ो ध र न
+171,B O K A J A N,ब ो क ा ज न
+172,B O L L I N G E R,ब ॉ ल ि ं ग र
+173,B O N C H U N E,ब ॉ न च ् य ू न
+174,B O R G A O N,ब ो र ग ा ं व
+175,B O R S T A L,ब ॉ र स ् ट ल
+176,B O R W A N K A R,ब ो र व न क र
+177,B O T E J U,ब ो त े ज ू
+178,B R A D F O R D,ब ् र ॅ ड फ ो र ् ड
+179,B R A N C H,ब ् र ा ं च
+180,B R A N D O,ब ् र ँ ड ो
+181,B R A Z O S P O R T,ब ् र ा झ ो स ् प ो र ् ट
+182,B R E N N I U S,ब ् र े न ि य स
+183,B R E T T,ब ् र े ट
+184,B R I T A,ब ् र ि ट ा
+185,B R I T A N N I A,ब ् र ि ट ा न ि य ा
+186,B R O A D,ब ् र ॉ ड
+187,B R O O K E S,ब ् र ू क ् स
+188,B R U L E,ब ् र ू ल
+189,B U D H L A D A,ब ु ध ल ा ड ़ ा
+190,B U D N I,ब ु द न ी
+191,B U L L E N,ब ू ल न
+192,B U N G L A,ब ं ग ल ा
+193,B U N K E R,ब ं क र
+194,B U R L E I G H,ब र ् ल े
+195,B U R L I N G T O N,ब र ् ल ि ं ग ् ट न
+196,B U R M A,ब र ् म ा
+197,B U R M E S T E R,ब र ् म े स ् ट र
+198,B U R N E T T,ब र न े ट
+199,C A D M I U M,क ै ड म ि य म
+200,C A I L E A N,क ै ल ी न
+201,C A I R O,क ै र ो
+202,C A L C I U M,क ै ‍ ल ् श ि य म
+203,C A M D E N,क ै म ड े न
+204,C A M P A N A,क ै ं प े न ा
+205,C A N A D A,क ै न े ड ा
+206,C A N O N,क ॅ न न
+207,C A P R I C E,क ै प ् र ि स
+208,C A R M I N E,क ै र म ा इ न
+209,C A R N O T,क ा र ् न ो ट
+210,C A S S A R A,क ै स र ा
+211,C A S T R O L,क ै स ् ट ् र ॉ ल
+212,C A V I N K A R E,क े व ि न क े य र
+213,C E L I A,स े ल ि य ा
+214,C H A D D A,च ड ् ड ा
+215,C H A I T R A S A K H A,च ै त ् र स ख ा
+216,C H A K R A D H A R I,च क ् र ध ा र ी
+217,C H A M O L I,च म ो ल ी
+218,C H A M O M I L E,क ै म ो म ा इ ल
+219,C H A N D L O D I Y A,च ा ं द ल ो द ि य ा
+220,C H A N D R A C H U D,च ं द ् र च ू ड ़
+221,C H A N D R A G U P T A,च ं द ् र ग ु प ् त
+222,C H A P L I N,च ै प ल ि न
+223,C H A R A N D E E P,च र न द ी प
+224,C H A R A N J I T,च र ण ज ी त
+225,C H A R S,च ा र ् स
+226,C H E S T E R,च े स ् ट र
+227,C H E T A N A A,च े त न ा
+228,C H I A R A,च ि आ र ा
+229,C H I M A Y I,च ि म य ी
+230,C H I N D W A D A,छ ि न ् द व ा ड ा
+231,C H I N N A,च ि न ् न ा
+232,C H I T N I S,च ि ट न ी स
+233,C H I T R A L,च ि त ् र ल
+234,C H I T R A S A N I,च ि त ् र स ा न ी
+235,C H O M U N,च ो म न
+236,C H U Y O,च ू य ो
+237,C I L L I A N,स ि ल ि य न
+238,C L E M E N T,क ् ल ी म े ं ट
+239,C L E T A,क ् ल े ट ा
+240,C L I F F E,क ् ल ि फ
+241,C L O U D,क ् ल ा उ ड
+242,C O B A I N,क ो ब े न
+243,C O C H R A I N E,क ॉ क ् र े न
+244,C O L O M B I A,क ो ल ं ब ि य ा
+245,C O L O R,क ल र
+246,C O N G D O N,क ॉ न ् ग ड न
+247,C O N O R,क ो न र
+248,C O N S T A N C E,क ॉ न ् स ् ट े ं स
+249,C O R A L I A,क ो र े ल ि य ा
+250,C O R A L I E,क ो र े ल ी
+251,C O R G I,क ॉ र ् ग ी
+252,C O R M A C,क ॉ र ् म े क
+253,C O S C O,क ॉ स ् क ो
+254,C O S I M A,क ो स ि म ा
+255,C O W D R E Y,क ॉ ड ् र े
+256,C U M B R E S,क ं ब ् र े स
+257,C U R T I N,क र ् ट ि न
+258,C U T T A C K,क ट क
+259,D A A T A N,द ा त ण
+260,D A B H A D E,द ा भ ा ड े
+261,D A C I A N,ड ै स ि य न
+262,D A D A H U R,द द ा ह ू र
+263,D A H M A,द ा ह म ा
+264,D A I T Y A R I,द ै त ् य र ि
+265,D A L A D I,द ल ा द ी
+266,D A L A I,द ल ा ई
+267,D A L A U D A,द ल ौ द ा
+268,D A L L A S,ड ल ा स
+269,D A M A R I S,ड े म र ि स
+270,D A N Z O N,ड ै न ज ़ न
+271,D A R L E N E,ड े र ् ल े न
+272,D A R Y A,द र य ा
+273,D A W L A H,द व ल ा ह
+274,D A Y A V A N,द य ा व ा न
+275,D A Z A I,ड ज़ ा ई
+276,D E B R A,ड े ब ् र ा
+277,D E E P A,द ी प ा
+278,D E E P E N D R A,द ी प े ं द ् र
+279,D E E W A N G E E,द ी व ा न ग ी
+280,D E L I A,ड े ल ि य ा
+281,D E L O R E S,ड े ल ो र े स
+282,D E N I R O,ड ी ‍ न ि र ो
+283,D E N M A N,ड े न म न
+284,D E P A U W,ड ी प ॉ उ
+285,D E R I C K,ड े र ि क
+286,D E R O L,द े र ो ल
+287,D E S H M U K H,द े श म ु ख
+288,D E S W A L,द े स ् व ा ल
+289,D E S W E L L,ड े स ् व े ल
+290,D E V A B R A T A,द े व ब ् र त
+291,D E V A N G A N A,द े व ा ं ग न ा
+292,D E V P U R A,द े व प ु र ा
+293,D E W A N G A N J,द ी व ा न ग ं ज
+294,D H A M O R A,ध म ो र ा
+295,D H A M U A,ध म ु आ
+296,D H A M Y A L,ध म ् य ा ल
+297,D H A N I S H T A,ध न ि ष ् ठ ा
+298,D H A R A N G A O N,ध र न ग ा ं व
+299,D H A R A N I,ध र ण ि
+300,D H A R A S H I V K A R,ध ा र ा श ि व क र
+301,D H A R I W A L,ध ा र ी व ा ल
+302,D H A R S H A N A,द र ् श न ा
+303,D H E M A J I,ध े म ा ज ी
+304,D H I N D H O R A,ढ ि ं ढ ़ ो र ा
+305,D H O L I,ध ो ल ी
+306,D H O R A J I,ध ो र ा ज ी
+307,D H R U P A D,ध ृ प द
+308,D H U D W A L,ध ु द व ा ल
+309,D H Y A N E S H,ध ् य ा न े श
+310,D I C K E N S,ड ि क ि न ् स
+311,D I M A P U R,द ी म ा प ु र
+312,D I S H A,द ि श ा
+313,D I S H M A N,द ि श ् म न
+314,D I V Y E N D U,द ि व ् य े ं द ु
+315,D I W A R,द ी व ा र
+316,D O D B E L E,ड ो ड ब े ल े
+317,D O M I N Y,ड ो म ि न ी
+318,D O R P V E L D,ड ॉ र ् प व े ल ् ड
+319,D O S H I,द ो ष ी
+320,D O U B L E,ड ब ल
+321,D O W N T O N,ड ा उ न ट न
+322,D R Y S H I P S,ड ् र ा य श ि प ् स
+323,D U D W I N D I,द ु द व ि ं ड ी
+324,D U N D A R A,द ु ं द र ा
+325,D U P O N T,ड ् य ू प ॉ न ् ट
+326,D U R G A A,द ु र ् ग ा
+327,D U R G A A P R A S A A D,द ु र ् ग ा प ् र स ा द
+328,D U R V I S H,द ु र ् व ि श
+329,D U S A N J H,द ु स ा ं झ
+330,D Y L A N,ड ि ल े न
+331,E A D O I N,ई ड ो इ न
+332,E A S T E R N,ई स ् ट र ् न
+333,E D G C U M B E,ए ज क ु ं ब
+334,E D W I N A,ए ड व ि न ा
+335,E H T I R A M,ए ह त ि र ा म
+336,E L E F T H E R I O S,ए ल े फ ् थ े र ि य स
+337,E L G O N,ए ल ् ग ॉ न
+338,E L L I S O N,ए ल ि स न
+339,E L O I S E,इ ल ो इ स
+340,E M E L D A,इ म े ल ् ड ा
+341,E M P I R E,ए ं प ा य र
+342,E Q U I P M E N T S,इ क ् व ि प म े ं ट ् स
+343,E R M I N,ए र ् म ि न
+344,E S M E R A L D A,ए स ् म र े ल ् ड ा
+345,E S T E S,ए स ् ट े स
+346,E T H E L D A,ए थ े ल ् ड ा
+347,E U G E N,य ू ग े न
+348,E U P H E M I A,य ू फ े म ि य ा
+349,E V A N G E L I N E,इ व े ं ज े ल ि न
+350,E X P O R T S,ए क ् स प ो र ् ट ् स
+351,F A B I A N,फ ै ब ि य न
+352,F A K I R A,फ क ी र ा
+353,F A L A Q,फ ल ़ क
+354,F A L G U N I,फ ा ल ् ग ु न ी
+355,F A O L A N,फ ा ओ ल े न
+356,F A R M A N,फ र म ा न
+357,F A R W A H,फ र ् व ा ह
+358,F A Z I L K A,फ ज़ ि ल ् क ा
+359,F E L T O N,फ े ल ् ट न
+360,F E O R A S,फ े ओ र स
+361,F E R R O L,फ े र ो ल
+362,F E R T I L I S E R S,फ ़ र ् ट ी ल ा इ ज ़ र ् स
+363,F I R O Z P U R,फ ि र ो ज़ प ु र
+364,F L A V I A N,फ ् ल े व ि य न
+365,F L I N D E R S,फ ् ल ि ं ड र ् स
+366,F L O C K,फ ़ ् ल ॉ क
+367,F L O U R O C H E M,फ ़ ् ल ो र ो क े म
+368,F O R C E,फ ़ ो र ् स
+369,F R A N C E S C A,फ ् र ा ं स ि स ् क ा
+370,F R I T Z,फ ् र ि ट ् ज ़
+371,G A B A N,ग ब न
+372,G A F O O R,ग फ ू र
+373,G A J A R U P A,ग ज र ू प ा
+374,G A J A V A K R A,ग ज व क ् र
+375,G A N G I K A,ग ं ग ि क ा
+376,G A N S E V O O R T,ग े न ् स व ू र ् ट
+377,G A R R Y,ग ै र ी
+378,G A R U D,ग र ु ड़
+379,G A U L O I S E,ग ॉ ल ो इ स
+380,G A U R I Y A M A U,ग ौ र ि य ा म ा उ
+381,G A W A A H I,ग व ा ह ी
+382,G A Y D A,ग ़ ा य द ा
+383,G E D I M I N A S,ग े ड ि म ि न ा स
+384,G E R M A N,ज र ् म न
+385,G E R O D I,ग े र ो ड ी
+386,G E R T R U D E,ग र ् ट र ू ड
+387,G H A L O D I,घ ल ो ड़ ी
+388,G H A N T A L,घ ं ट ा ल
+389,G I A N C A R L O,ग ि य ा न क ा र ् ल ो
+390,G I D H A U R,ग ि ध ौ र
+391,G I L B E R T,ग ि ल ् ब र ् ट
+392,G I L K I C K E R,ग ि ल क ि क र
+393,G I T A,ग ी त ा
+394,G L A S S,ग ् ल ा स
+395,G L E N D A,ग ् ल े ं ड ा
+396,G L Y N I S,ग ् ल ा इ न ि स
+397,G O L A G H A T,ग ो ल ा घ ा ट
+398,G O M E S,ग ो म ् स
+399,G O V I N D,ग ो व ि न ् द
+400,G R A S S L A N D,ग ् र ा स ल ै ं ड
+401,G R A T I O T,ग ् र े ट ि य ो ट
+402,G R E A T B A T C H,ग ् र े ट ब ै च
+403,G R E A V E,ग ् र ी व
+404,G R E A V E S,ग ् र ी व ् ज ़
+405,G R E E N,ग ् र ी न
+406,G R E E N S B O R O,ग ् र ी न ् स ब ो र ो
+407,G R E E N S P A N,ग ् र ी न स ् प ा न
+408,G R I Z Z L Y,ग ् र ि ज़ ल ी
+409,G U F I C,ग ु फ ़ ि क
+410,G U L A O T H I,ग ु ल ौ थ ी
+411,G U L E R,ग ु ल े र
+412,G U L Z A R B A G H,ग ु ल ् ज़ ा र ब ा ग
+413,G U N A T I L L E K E,ग ु ण ट ि ल े क े
+414,G U N T A K A L,ग ु ण ट क ल
+415,G U R D J I E F F,ग ु र ् ड ज ि फ ़
+416,G U R J A R I,ग ु र ् ज र ी
+417,G U R N A M,ग ु र न ा म
+418,G U R U S I N H A,ग ु र ु स ि न ् ह ा
+419,G U S T A V,ग ु स ् त ा व
+420,G U T H R I E,ग ु थ र ी
+421,G Y A A N,ज ् ञ ा न
+422,H A F E Z,ह फ े ज ़
+423,H A F N I U M,ह ॉ फ ् न ि य म
+424,H A K I M,ह क ी म
+425,H A L A A T,ह ा ल ा त
+426,H A L I M U N,ह ा ल ि म न
+427,H A N F A,ह न फ ा
+428,H A N G A M A,ह ँ ग ा म ा
+429,H A R B H A J A N,ह र भ ज न
+430,H A R P E R,ह ा र ् प र
+431,H A R T F O R D,ह ा र ् ट फ ़ ो र ् ड
+432,H A S E E N O,ह स ी न ो ं
+433,H A S S A N,ह स न
+434,H A W A I I,ह व ा ई
+435,H A W A L D A A R,ह व ल द ा र
+436,H A W W A,ह व ् व ा
+437,H E M C H A N D,ह े म च ं द
+438,H E N D R Y,ह े ं ड ् र ी
+439,H E R L U F,ह र ् ल फ
+440,H I B A T U L L A H,ह ि ब ा त ु ल ् ल ा ह
+441,H I N C K L E Y,ह ि ं क ल े
+442,H I N D A H,ह ि न ् द ा ह
+443,H I R A A,ह ी र ा
+444,H I R O S H I M A,ह ि र ो श ि म ा
+445,H O G G A R D,ह ॉ ग र ् ड
+446,H O L L I S,ह ॉ ल ि स
+447,H O L L O G N E,ह ॉ ल ो ग न े
+448,H O L L Y B O U R N E,ह ॉ ल ी ब ॉ र ् न
+449,H O N S H U,ह ॉ न ् श ू
+450,H O S H O,ह ो श ो
+451,H O S S E I N,ह ु स ै न
+452,H U J A Y M A H,ह ु ज य म ा ह
+453,H U J J A T,ह ु ज ् ज त
+454,H U M A A M,ह म ा म
+455,H U R L E Y,ह र ल े
+456,H U Z A Y L,ह ु ज़ ा य ल
+457,H Y D R O,ह ा इ ड ् र ो
+458,I B E R D R O L A,ई ब र ड ् र ो ल ा
+459,I D O L A,इ ड ो ल ा
+460,I N D A P U R K A R,इ ं द ा प ु र क र
+461,I N D E R P R E E T,इ न ् द र प ् र ी त
+462,I N D I Y A,इ ं ड ि य ा
+463,I N D R A K S H I,इ ं द ् र ा क ् ष ी
+464,I N D R A N U J,इ ं द ् र ा न ु ज
+465,I N D U B H U S H A N,इ न ् द ु भ ू ष ण
+466,I R A N I A N,ई र ा न ि य न
+467,I R V I N G,इ र ् व ि ं ग
+468,I T A L Y,इ ट ल ी
+469,I Z D I H A R,इ ज़ ् द ि ह ा र
+470,J A A N E M A N,ज ा न े म न
+471,J A C I N T O,ज स ि ं ट ो
+472,J A F A R W A L,ज फ र व ा ल
+473,J A H A N A B A D,ज ह ा न ा ब ा द
+474,J A H A N K H E L A,ज ह ा ँ ख े ल ा
+475,J A H U R A,ज ह ू र ा
+476,J A L I L A H,ज ल ी ल ा ह
+477,J A M A L U D D I N,ज म ा ल ु द ् द ी न
+478,J A N E T T E,ज े न े ट
+479,J A R E E R,ज र ी र
+480,J A Y A D E V,ज य द े व
+481,J A Y A M A L A,ज य म ा ल ा
+482,J A Y A S E K E R A,ज य स े क र ा
+483,J A Y A W A R D E N E,ज य व र ् द न े
+484,J A Y P E E,ज य प ी
+485,J A Y S U K H,ज य स ु ख
+486,J E M M A,ज े म ा
+487,J E S S I C A,ज े स ि क ा
+488,J H A B A L,झ ब ा ल
+489,J H A R S U G U D A,झ ा र स ु ग ु द ा
+490,J I B R I L,ज ि ब ् र ि ल
+491,J I G A R,ज ि ग र
+492,J I G R I,ज ि ग र ी
+493,J I M B O,ज ि म ् ब ो
+494,J I R O F T,ज ि र ो फ ् ट
+495,J O D H P U R,ज ो ध प ु र
+496,J O R G E,ज ॉ र ् ज
+497,J O U R N A L,ज र ् न ल
+498,J U M A N A H,ज ु म न ा ह
+499,J U S T I S E,ज स ् ट ि स
+500,J Y O T I R M O Y E E,ज ् य ो त ि र ् म ो य ी
+501,K A I L A,क ै ल ा
+502,K A I L A S,क ै ल ा स
+503,K A I T A B H A J I T,क ै ट भ ज ि त
+504,K A L A A D H A R,क ल ा ध र
+505,K A L E A,क ै ल ि य ा
+506,K A L P A N A,क ल ् प न ा
+507,K A L U P E R U M A,क ा ल ु प े र ु म ा
+508,K A L Y A R I,क ल ् य ा र ी
+509,K A M A L A,क म ल ा
+510,K A M E R A,क ा म े र ा
+511,K A N C H I P U R A M,क ा ँ च ी प ु र म
+512,K A N H A,क ा न ् ह ा
+513,K A N I S H K A,क न ि ष ् क ा
+514,K A N W A L K I S H O R E,क ं व ल क ि श ो र
+515,K A P A N I,क प ा न ी
+516,K A R I S,क ै र ि स
+517,K A R M A,क र ् म ा
+518,K A R P E,क र ् प े
+519,K A S H I K A R,क ा श ी क र
+520,K A T H P A L,क ठ प ा ल
+521,K A T H P U T L I,क ठ प ु त ल ी
+522,K E E R A T P U R,क ी र त प ु र
+523,K E S A R E E,क े स र ी
+524,K E S L E R,क े स ् ल र
+525,K H A L E E L,ख ल ी ल
+526,K H A R A,ख र ा
+527,K H A R A D,ख र ड़
+528,K H E L O,ख े ल ो
+529,K H I D A S H,ख ि द ा श
+530,K H U R A S I Y A,ख ु र ा स ि य ा
+531,K H U S H B O O,ख ु श ब ू
+532,K I A R A,क ि य ा र ा
+533,K I F A Y A T,क ि फ ा य त
+534,K I R I L,क ि र ि ल
+535,K I R K A N,क ि र ् क न
+536,K O K I L A,क ो क ि ल ा
+537,K O L B E,क ो ल ् ब े
+538,K O N G O,क ॉ न ् ग ो
+539,K O R A N N E,क ो र ा न ् न े
+540,K R I K O R,क ् र ि क ो र
+541,K R O N E,क ् र ो न
+542,K U F R A,क ु फ ़ ् र ा
+543,K U M M I,क ु म ् म ी
+544,K U R S I,क ु र ् स ी
+545,L A A S H,ल ा श
+546,L A A S Y A,ल ा स ् य ा
+547,L A C H A K,ल च क
+548,L A I R D,ल ै र ् ड
+549,L A J J A W A T I,ल ज ् ज ा व त ी
+550,L A K H P A T I,ल ख प त ि
+551,L A K S H M I S H R E E,ल क ् ष ् म ी श ् र ी
+552,L A L A A T I K A A,ल ल ा ट ि क ा
+553,L A L A I N E,ल े ल ै न
+554,L A M B D A,ल ै ं ब ड ा
+555,L A N K E S H,ल ं क े श
+556,L A S S I E,ल ै स ी
+557,L A T A A P A R N,ल त ा प र ् ण
+558,L A V I N A,ल व ी न ा
+559,L A V O N N,ल ै व ॉ न
+560,L A V O N N E,ल ै व ॉ न
+561,L A W A A T E,ल व ा ट े
+562,L E B A N O N,ल े ब न ॉ न
+563,L E G A L,ल ी ग ल
+564,L E O N A,ल ि य ो न ा
+565,L E O P A R D,ल ि य ो प ा र ् ड
+566,L E X I N E,ल े क ् स ि न
+567,L I S C A R D,ल ि स ् क ा र ् ड
+568,L I Y A Q A T,ल ि य ा क त
+569,L O C K E T,ल ॉ क े ट
+570,L O J K I,ल ो ज क ी
+571,L U B N A,ल ु ब न ा
+572,L U C I A N O,ल ् य ु स ि आ न ो
+573,L U D H I A N A,ल ु ध ि य ा न ा
+574,L U D W I G,ल ु ड व ि ग
+575,L U K T U K E,ल ु क त ु क े
+576,L U M I N A,ल ् य ू म ि न ा
+577,L U N E T T E,ल ् य ू न े ट
+578,L Y N D A,ल ि ं ड ा
+579,M A A J I D,म ा ज ि द
+580,M A A K H A N,म ा ख न
+581,M A C M I L L A N,म ै क म ि ल न
+582,M A D E L E I N E,म ै ड े ल ी न
+583,M A D H E P U R A,म ध े प ु र ा
+584,M A D R I D,म ै ड ् र ि ड
+585,M A G S A Y S A Y,म े ग स े स े
+586,M A H A A B A A H U,म ह ा ब ा ह ु
+587,M A H A B A H U,म ह ा ब ा ह ु
+588,M A H E S H W A R,म ह े श ् व र
+589,M A H I A,म ा ह ि य ा
+590,M A H O D A R E E,म ह ो द र ी
+591,M A H R A J G A N J,म ह र ा ज ग ं ज
+592,M A I Z E R E T,म ै ज ़ र े ट
+593,M A J E E D,म ज ी द
+594,M A K A T K A R,म ा क त क र
+595,M A K P O,म ै क ् प ो
+596,M A L D A A R,म ा ल द ा र
+597,M A N A V I N D E R,म न व ि न ् द र
+598,M A N D S A U R,म न ् द स ौ र
+599,M A N G A T R A A M,म ं ग त र ा म
+600,M A N I K,म ा ण ि क
+601,M A N I K U N T A L A,म ण ि क ु ं त ल ा
+602,M A N I S H A N K A R,म ण ि श ं क र
+603,M A N J A L A R,म ं ज ल र
+604,M A N J R E K A R,म ा ं ज र े क र
+605,M A N O R A T H E E,म न ो र थ ी
+606,M A N U H A A R,म न ु ह ा र
+607,M A N Z A R,म ं ज़ र
+608,M A N Z I L E N,म ं ज़ ि ल े ं
+609,M A Q B O O L,म क़ ब ू ल
+610,M A R A T H E,म र ा ठ े
+611,M A R I B E T H,म र ि ब े थ
+612,M A R I D A H,म र ी द ा ह
+613,M A R I L L I E R,म ै र ी ल ि य र
+614,M A R J A N A H,म र ् ज न ा ह
+615,M A R J O R I E,म ै र ् ज ो र ी
+616,M A R U T,म ा र ु त
+617,M A S H A A L,म श ा ल
+618,M A S T A N A,म स ् त ा न ा
+619,M A T A N Z A S,म े ट ा न ् ज ़ ा स
+620,M A T H M E S H,म थ म े श
+621,M A U R I C E,म ौ र ि स
+622,M A Y B A N K,म े ब ै ं क
+623,M A Y I L A D U T U R A I,म इ ल ा द ु त ु र ा ई
+624,M A Y U R E S H W A R,म य ू र े श ् व र
+625,M E D H A,म े ध ा
+626,M E D H A A V E E,म े ध ा व ी
+627,M E G H A N A,म े घ न ा
+628,M E H M O O D,म ह म ू द
+629,M E R R I M A C K,म े र ी म ै क
+630,M E S S E T U R M,म े स े ट र ् म
+631,M I A C H,म ि आ च
+632,M I K U M I,म ि क ु म ी
+633,M I L E K,म ि ल े क
+634,M I L I N D,म ि ल ि न ् द
+635,M I N D O,म ि ं द ो
+636,M I R Z A,म ि र ् ज ़ ा
+637,M I T S U I,म ि त ् स ु ई
+638,M I T U M B A,म ि ट ु ं ब ा
+639,M O D E S T A,म ो ड े स ् ट ा
+640,M O G H E,म ो घ े
+641,M O H A L,म ो ह ल
+642,M O O R E S,म ू र ् स
+643,M O O R S,म ू र ् स
+644,M O R A G,म ो र ग
+645,M O R G A N A,म ो र ् ग न ा
+646,M O R K E L,म ॉ र ् क ल
+647,M O R S E,म ो र ् स
+648,M O R T I M E R,म ो र ् ट ि म े र
+649,M O S E R,म ो ज ़ े र
+650,M O T E E,म ो त ी
+651,M R A G A N A Y A N E E,म ृ ग न य न ी
+652,M U H A A Y A M E E N,म ु ह ा य म ी न
+653,M U H A A Y E E,म ु ह ा य ी
+654,M U H A A Y I,म ु ह ा य ी
+655,M U H A F I Z,म ु ह ा फ ि ज़
+656,M U H A Y M I N,म ु ह ा य म ी न
+657,M U K E R I A,म ु क े र ि य ा
+658,M U K U T A D H A A R E E,म ु क ु ट ध ा र ी
+659,M U N E E B,म ु न ी ब
+660,M U N E E R,म ु न ी र
+661,M U R A R I L A L,म ु र ा र ी ल ा ल
+662,N A A T A K,न ा ट क
+663,N A B E N D U,न ब े ं द ु
+664,N A G A T O,न ग े ट ो
+665,N A H A R,न ा ह र
+666,N A I M I S H,न ै म ि श
+667,N A I N I T A L,न ै न ी त ा ल
+668,N A I S M I T H,न ा य स ् म ि थ
+669,N A J I Y A H,न ा ज ि य ा
+670,N A N D I T A,न न ् द ि त ा
+671,N A Q I D,न क़ ी द
+672,N A Q Q A S H,न क ् क ा श
+673,N A T C O,न ै ट क ो
+674,N A T I O N A L,न े श न ल
+675,N A V A L,न व ल
+676,N A V E E N,न व ी न
+677,N A V I N,न व ी न
+678,N E H A R,न ह र
+679,N E L L O R E,न ै ल ् ल ो र
+680,N E R O L A C,न े र ो ल े क
+681,N E S T L E,न ै स ् ल े
+682,N E T B A L L,न े ट ब ॉ ल
+683,N E T W O R K,न े ट व र ् क
+684,N I E R E N B E R G,न ी र े न ब र ् ग
+685,N I G G L Y,न ि ग ल ी
+686,N I H A R,न ि ह ा र
+687,N I N A D,न ि न ा द
+688,N I S H A N T H A,न ि श ा ं थ ा
+689,N I S H O K,न ि श ो क
+690,N I T Y A,न ि त ् य ा
+691,N I T Y A N A T H,न ि त ् य न ा थ
+692,N I W A I,न ि व ा ई
+693,N O O P U R,न ू प ु र
+694,N O O R I E,न ू र ी
+695,N O R S K,न ॉ र ् स ् क
+696,N O V O R O S S Y S K,न ॉ व ो र ो स ि स ् क
+697,N U A L A,न ु आ ल ा
+698,N U M A I R,न ु म ै र
+699,N U N I V A K,‍ न ू न ि व क
+700,O B A I D,ओ ब ै द
+701,O C T O B E R,ऑ क ् ट ो ब र
+702,O L O N G A,ओ ल ो ं ग ा
+703,O L S E N,ऑ ल ् स े न
+704,O P H I R A,ओ फ ि र ा
+705,O P T I C A L,ऑ प ् ट ि क ल
+706,O R I N O C O,ओ र ि न ो क ो
+707,O R L E A N S,ऑ र ् ल ी ं स
+708,O R T H O F I X,ऑ र ् थ ो फ ़ ि क ् स
+709,O Z A R K,ओ ज ़ ा र ् क
+710,P A A G E,प ा ग े
+711,P A A R I J A A T,प ा र ि ज ा त
+712,P A D M A L A Y A,प द ् म ा ल य ा
+713,P A D M A N,प द ् म न
+714,P A D M A R A T H,प द ् म र थ
+715,P A G A L,प ा ग ल
+716,P A L L A D I U M,प ल ै ड ि य म
+717,P A R A M E S H,प र म े श
+718,P A R A S M A N I,प ा र स म ण ि
+719,P A R I D H I,प र ि ध ि
+720,P A R I J A T,प ा र ि ज ा त
+721,P A R I K S H I T,प र ी क ् ष ि त
+722,P A S H U P A T I,प श ु प त ि
+723,P E C H I P A R A I,प े च ी प र ा ई
+724,P E R R I E R,प े र ि य र
+725,P H I L L I P S,फ ़ ि ल ि प ् स
+726,P I N G A L,प ि ं ग ल
+727,P I S C E S,प ा इ स े स
+728,P I T S B E R G,प ि ट ् स ब र ् ग
+729,P L U T O N I U M,प ् ल ू ट ो न ि य म
+730,P L Y M O U T H,प ् ल ा य म ा उ थ
+731,P O O R N A C H A N D R A,प ू र ् ण च ं द ् र
+732,P O P H A M,प ॉ फ ै म
+733,P R A S A N N A,प ् र स न ् न ा
+734,P R A S A T,प ् र स ा त
+735,P R A T I B A N D H,प ् र त ि ब ं ध
+736,P R E E T I S H,प ् र ी त ि श
+737,P R E R A N A,प ् र े र ण ा
+738,P R E T O R I U S,प ् र ि ट ॉ र ि य स
+739,P R I T A,प ् र ी त ा
+740,P R I Y A D A R S H I N I,प ् र ि य द र ् श ि न ी
+741,P R I Y A R A N J A N,प ् र ि य र ं ज न
+742,P R O C T E R,प ् र ॉ क ् ट र
+743,P U B U D U,प ु ब ु द ु
+744,P U K A R A,प ु क ा र ा
+745,P U R I T Y,प ् य ू र ि ट ी
+746,P U R U L I A,प ु र ु ल ि य ा
+747,Q A I L A H,क ै ल ा ह
+748,Q A R A A H,क र ा ह
+749,Q U A N T A,क ् व ा ं ट ा
+750,Q U R B A N,क़ ु र ् ब ा न
+751,R A A K E S H,र ा क े श
+752,R A A S H I D,र ा श ि द
+753,R A B I A H,र ब ि य ा ह
+754,R A C K E M A N N,र ै क म न
+755,R A G H U N A T H,र घ ु न ा थ
+756,R A I N E R,र ै न र
+757,R A J A J I,र ा ज ा ज ी
+758,R A J N I,र ज न ी
+759,R A M A I A,र म ै य ा
+760,R A M K I S H O R E,र ा म क ि श ो र
+761,R A M K R I S H N A,र ा म क ृ ष ् ण
+762,R A M O N,र ा म ो न
+763,R A M P U R,र ा म प ु र
+764,R A N C E,र ै ं स
+765,R A N D H E E R,र ण ध ी र
+766,R A N D H I R,र ण ध ी र
+767,R A N G E R,र ै ं ज र
+768,R A N I K O T,र ा न ी क ो ट
+769,R A S H M I,र श ् म ि
+770,R A S I K,र स ि क
+771,R A T N A A K A R,र त ् न ा क र
+772,R A V I S H A N K A R,‍ र व ि श ं क र
+773,R A Z I A,र ज़ ि य ा
+774,R E G I S,र े ग ि स
+775,R E N D O R,र े ं ड र
+776,R H E I N L A N D,र े न ल ै ं ड
+777,R I F L E,र ा इ फ ल
+778,R I T U R A J,ऋ त ु र ा ज
+779,R I Z V I,र ि ज व ी
+780,R O S E M A R I E,र ो ज ़ म े र ी
+781,R O U N D E R,र ा उ ं ड र
+782,R U B A I N A,र ु ब ै न ा
+783,R U C H I,र ू च ि
+784,R U S S Y,र ू स ी
+785,S A A K H A R E,स ा ख र े
+786,S A A R A N G E E,स ा र ं ग ी
+787,S A B B U R A H,स ब ् ब ु र ा ह
+788,S A B N I S,स ब न ी स
+789,S A B U R,स ब ु र
+790,S A C H C H I D A N A N D,स च ् च ि द ा न ं द
+791,S A F E E R,स फ ी र
+792,S A G I T T A R I U S,स ै ज ि ट े र ि य स
+793,S A I L A N I,स ै ल ा न ी
+794,S A K A L,स क ा ल
+795,S A L I F A H,स ल ी फ ा ह
+796,S A L I M A,स ल ी म ा
+797,S A L M O N,स ै ल ् म न
+798,S A L V A D O R,स ल ् व ा ड ो र
+799,S A M A R I U M,स म ै र ि य म
+800,S A M E E N A H,स म ी न ा ह
+801,S A M T A,स म त ा
+802,S A N D E R S,स े ं ड र ् स
+803,S A N G Y O N G,स ै ं ग य ो ं ग
+804,S A N J E E V,स ं ज ी व
+805,S A N J E E V A,स ं ज ी व ा
+806,S A N K A L P,स ं क ल ् प
+807,S A N O R,स न ो र
+808,S A N S K A R,स ं स ् क ा र
+809,S A N S K R I T,स ं स ् क ृ त
+810,S A N T O S,स े ं ट ो ज ़
+811,S A N W A R I Y A,स ा ं व र ि य ा
+812,S A N Y A K T A,स ं य क ् त ा
+813,S A N Y O G I T A,स ं य ो ग ि त ा
+814,S A P I E N S,स ै प ि य ं स
+815,S A R A B A N D E,स ा र ा ब ै ं ड े
+816,S A R A K A T S A N O I,स ा र ा क त ् स न ो ई
+817,S A R A L A A,स र ल ा
+818,S A R I S K A,स र ि स ् क ा
+819,S A R I T,स र ि त
+820,S A R K A R I A,स र क ा र ि य ा
+821,S A R M I N D E R,स र म ि ं द र
+822,S A S K A T C H E W A N,स ै स ् क ै च व ा न
+823,S A T I N,स ै ट ि न
+824,S A T V A M O H A N,स त ् व म ो ह न
+825,S A U N D E R S,स ॉ न ् ड र ् स
+826,S A X O N,स ॅ क ् स ो न
+827,S A Z A A,स ज़ ा
+828,S C A N D I U M,स ् क ै ं ड ि य म
+829,S E N T A,स े ं ट ा
+830,S E R E N O,स े र े न ो
+831,S E R I B U,स े र ी ब ु
+832,S H A A L I N E E,श ा ल ि न ी
+833,S H A D A N,श ा द ा न
+834,S H A F I A H,श फ ि य ा ह
+835,S H A I L A,श ै ल ा
+836,S H A M S H E R,श म श े र
+837,S H A R I Q,श र ी क
+838,S H A R V A N I,श र ् व ा न ी
+839,S H A R V A R I,श र ् व र ि
+840,S H A S H I R E K H A,श श ि र े ख ा
+841,S H A Y B A H,श य ब ा ह
+842,S H E E L A A,श ी ल ा
+843,S H E E S H M A H A L,श ी श म ह ल
+844,S H E H R Y A A R,श ह र य ा र
+845,S H E H Z A A D E,श ह ज ़ ा द े
+846,S H E K H A R A,श े ख र ा
+847,S H E N A N D O A H,श े न न ड ो ह
+848,S H I D H O R E,श ि ध ो र े
+849,S H I L P E E,श ि ल ् प ी
+850,S H O M E,श ो म
+851,S H O R E H A M,श ो र ह ै म
+852,S H R A D D H A,श ् र द ् ध ा
+853,S H U B H A N G I,श ु भ ा ं ग ी
+854,S H U J A,श ु ज ा
+855,S I B E L I U S,स ि ब े ल ि य स
+856,S I B Y L,स ि ब ि ल
+857,S I D E W I S E,स ा इ ड व ा इ ज़
+858,S I D H D E S H V A R E E,स ि द ् ध े श ् व र ी
+859,S I D R A H,स ि द ् र ा ह
+860,S I K A N D A R,स ि क ं द र
+861,S I K L I G A R,स ि क ल ी ग र
+862,S I L E S I A N,स ि ल े स ि य न
+863,S I L I C O M,स ि ल ि क ॉ म
+864,S I L I C O N W A R E,स ि ल ि क ॉ न व े य र
+865,S I M O N S,स ि म न ् स
+866,S I N D H U D U R G,स ि ं ध ु द ु र ् ग
+867,S I N D H U R,स ि ं ध ु र
+868,S I N G H V I,स ि ं घ व ी
+869,S I N H A,स ि न ् ह ा
+870,S I T A K A N T,स ी त ा क ा ं त
+871,S I U S A N,स ि उ स न
+872,S L A V E,स ् ल े व
+873,S L O U G H,स ् ल ॉ
+874,S O D H I,स ो ढ ी
+875,S O F I A,स ो फ ़ ि य ा
+876,S O F O K L I S,स ो फ ़ ो क ् ल ी ज
+877,S O L A P U R,स ो ल ा प ु र
+878,S O M A L I A,स ो म ा ल ि आ
+879,S O N I Y A,स ो न ि य ा
+880,S P E C T O R,स ् प े क ् ट र
+881,S P I K E,स ् प ा इ क
+882,S P R I N G S T E E N,स ् प ् र ि ं ग स ् ट ी न
+883,S R A P A N C H,स ् र प ं च
+884,S R I N A T H,श ् र ी न ा थ
+885,S T A D D O N,स ् ट ै ड न
+886,S T E F F I E,स ् ट े फ ी
+887,S T U T I,स ् त ु त ि
+888,S T Y L E S,स ् ट ा इ ल ् स
+889,S U B H A D R A,स ु भ द ् र ा
+890,S U B R O T O,स ु ब ् र ो त ो
+891,S U C H I R A,स ु च ि र ा
+892,S U D A R S H A N,स ु द र ् श न
+893,S U D H I R A,स ु ध ि र ा
+894,S U K H I J A,स ु ख ी ज ा
+895,S U L T A N A H,स ु ल ् त ा न ा ह
+896,S U M I D E R O,स ु म ि ड े र ो
+897,S U N D R A M,स ु ं द र म
+898,S U P R A B H A,स ु प ् र भ ा
+899,S U R A M A,स ु र म ा
+900,S U R B A H A R,स ु र ब ह ा र
+901,S U R I N D E R J E E T,स ु र ि न ् द र ज ी त
+902,S U R Y A K A N T I,स ू र ् य क ा ं त ि
+903,S U S H A N T I,स ु श ा ं त ि
+904,S U S H I L,स ु श ी ल
+905,S W A R A J,स ् व र ा ज
+906,S W A R G,स ् व र ् ग
+907,S Y L V E S T E R,स ि ल ् व े स ् ट र
+908,S Y L V I E,स ि ल ् व ी
+909,T A C O N I C,ट ै क ॉ न ि क
+910,T A H O O R,त ह ू र
+911,T A L I S M A,त ल ी स ् म ा
+912,T A L W A R,त ल व ा र
+913,T A M A L I K A,त म ा ल ि क ा
+914,T A M I L,‍ त म ि ल
+915,T A N K E R S,ट ै ं क र ् स
+916,T A N W I R,त न व ी र
+917,T A P T I,त ा प ् त ी
+918,T A S L I M,त स ् ल ी म
+919,T A U F E E Q,त ौ फ ी क
+920,T A V L E E N,त व ल ी न
+921,T E L E F O N I C A,ट े ल ी फ ़ ो न ि क ा
+922,T E M P E L H O F,ट े ं प ल ह ॉ फ
+923,T E Z A A B,त े ज ़ ा ब
+924,T H A K K A R,ठ क ् क र
+925,T H E T A,थ ी ट ा
+926,T H U N D E R C H I L D,थ ं ड र च ा इ ल ् ड
+927,T I B E S T I,त ि ब े स ् त ी
+928,T I K O L O,ट ि क ॉ ल ो
+929,T I T I C A C A,ट ि ट ि क ा क ा
+930,T O I Y A B E,त ो ई य ा ब े
+931,T O N G O,ट ॉ ग ो
+932,T R E H A N,त ् र े ह न
+933,T R E N D,ट ् र े ं ड
+934,U B E J A,उ ब े ज ा
+935,U G A A N I,उ ग ा ण ी
+936,U M A P A T I,उ म ा प त ि
+937,U N I T E C H,य ू न ि ट े क
+938,U T T A M,उ त ् त म
+939,V A A G H M A R E,व ा घ म ा र े
+940,V A I R A J,व ै र ा ज
+941,V A N A D I U M,व े न ड ि य म
+942,V A N D A N A,व न ् द न ा
+943,V A N G U A R D,व ै न ग ा र ् ड
+944,V A R A N A S I,व ा र ा ण स ी
+945,V A R Y A G,व र ् य ा ग
+946,V A S O G E N,व ै स ो ज े न
+947,V A S U D E V,व स ु द े व
+948,V E E R E S H W A R,व ी र े श ् व र
+949,V E L A D E R O,व े ल ा ड े र ो
+950,V E N K A T A R A M A N A,व े ं क ट र म न
+951,V E N K A T E S H,व े ं क ट े श
+952,V I A C O M,व ि य ा क ॉ म
+953,V I B H A,व ि भ ा
+954,V I B H O R,व ि भ ो र
+955,V I D Y A L A Y A,व ि द ् य ा ल य
+956,V I D Y U L,व ि द ् य ु ल
+957,V I J E T A,व ि ज े त ा
+958,V I L J O E N,व ि ल ् ज ो ए न
+959,V I M A L,व ि म ल
+960,V I R G I L,व र ् ज ि ल
+961,V I S H O K,व ि श ो क
+962,V I S H W A M I T R A,व ि श ् व ा म ि त ् र
+963,V I S H W N A T H,व ि श ् व न ा थ
+964,V I V I A N,व ि व ि य न
+965,V O N D A,व ो ं ड ा
+966,V O R P O M M E R N,व ो र ् प ो म े र ् न
+967,V R A H A T,व ृ ह त
+968,V Y A V H A R E,व ् य व ह ा र े
+969,V Y T I S,व ा य ट ि स
+970,W A C H H A R,व च ् च र
+971,W A K E E L,व क ी ल
+972,W A L G R E E N,व ॉ ल ग ् र ी न
+973,W A L S H,व ॉ ल ् श
+974,W A T E R P H O N E,व ा ट र फ ो न
+975,W A T U M O H A I,व ा ट ु म ो ह ा ई
+976,W E S T S I D E,व े स ् ट स ा इ ड
+977,W H I T B R E A D,व ् ह ि ट ब ् र े ड
+978,W I C K R A M A S I N G H E,व ि क ् र म ा स ि ं घ े
+979,W I D A D,व ि द ा द
+980,W I L M E R,व ि ल ् म र
+981,W I S M A,व ि स ् म ा
+982,W I T T E L S B A C H,व ि ट ् ट ल ् स ब ै क
+983,W O L L A S T O N,व ॉ ल ा स ् ट न
+984,X E N O N,ज़ े न ॉ न
+985,X I N G U,ज ़ ी ं ग ू
+986,Y A A R O N,य ा र ो ं
+987,Y A D A G I R I G U T T A,य ा द ग ि र ी ग ु ट ् ट ा
+988,Y A G H N A M,य ग ़ न ा म
+989,Y A M I N I,य म ि न ी
+990,Y E L L O W S T O N E,य े ल ् ल ो स ् ट ो न
+991,Z A H I R A H,ज़ ह ि र ा ह
+992,Z A L E E L,ज़ ल ी ल
+993,Z A M B E Z I,ज ़ ा म ् ब े ज ़ ी
+994,Z A R R A H,ज़ र ् र ा ह
+995,Z E S E R S,ज़ े स र ् स
+996,Z L O T Y,ज ़ ् ल ॉ ट ी
